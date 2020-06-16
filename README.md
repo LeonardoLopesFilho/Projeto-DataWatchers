@@ -8,4 +8,24 @@ O Jogo foi feito Com Java, Swing e MYSQL feito por Leonardo Pimentel Lopes Filho
 estamos trabalhando para colocar o BancoMysql em nuvem para colocar o jogo apenas com exe, para testes;
 
 Esse repositorio foi atualizado em 10/06/2020;
-A pasta Chamadas está desatualizada, no caso o jogo atualizado está no src
+o jogo atualizado está na pasta src
+
+
+
+===============================================================================================================================
+
+
+The DataWatchers Project, is a PointClick game where the player will have to discover encrypted cryptography in cesar's cipher
+to achieve all your goals (in the initial development stage there are only 5) and for each goal discovered they
+will get more complicated and will need the player even more
+
+The Game was made with Java, Swing and MYSQL made by Leonardo Pimentel Lopes Filho and Felipe Wesley for a College Work,
+we are working to put BancoMysql in the cloud to put the game with exe only, for testing;
+
+This repository was updated on 06/10/2020;
+the updated game is in the src folder
+
+
+
+
+
