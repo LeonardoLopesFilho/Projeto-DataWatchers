@@ -12,7 +12,7 @@ o jogo atualizado está na pasta src
 
 
 
-===============================================================================================================================
+===================================================================================
 
 
 The DataWatchers Project, is a PointClick game where the player will have to discover encrypted cryptography in cesar's cipher
